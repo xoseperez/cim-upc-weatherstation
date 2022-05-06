@@ -2,7 +2,7 @@
 
 SIMPLE EXAMPLE FOR TTGO/HELTEC-LORA32
 
-Copyright (C) 2018-2021 by Xose Pérez <xose dot perez at gmail dot com>
+Copyright (C) 2018-2022 by Xose Pérez <xose dot perez at gmail dot com>
 
 This sketch requires LMIC library by Matthijs Kooijman
 https://github.com/matthijskooijman/arduino-lmic
@@ -23,6 +23,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 */
+
 
 #include "configuration.h"
 #include <rom/rtc.h>

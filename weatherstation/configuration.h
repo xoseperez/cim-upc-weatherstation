@@ -2,7 +2,7 @@
 
 TTGO-LORA32 based TTN Node
 
-Copyright (C) 2018-2021 by Xose Pérez <xose dot perez at gmail dot com>
+Copyright (C) 2018-2022 by Xose Pérez <xose dot perez at gmail dot com>
 
 This code requires LMIC library by Matthijs Kooijman
 https://github.com/matthijskooijman/arduino-lmic
